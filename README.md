@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/sayanta99944672" target="blank"><img src="https://img.shields.io/twitter/follow/sayanta99944672?logo=twitter&style=for-the-badge" alt="sayanta99944672" /></a> </p>
 
-- 🌱 I’m currently learning **React, DSA and python.**
+- 🌱 I’m currently learning **React, DSA and Machine learning.**
 
 - 💬 Ask me about **FrontEnd development, DSA, Java programming and new technologies.**
 
