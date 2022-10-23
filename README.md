@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arbtrage&label=Profile%20views&color=0e75b6&style=flat" alt="arbtrage" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/sayanta99944672" target="blank"><img src="https://img.shields.io/twitter/follow/sayanta99944672?logo=twitter&style=for-the-badge" alt="sayanta99944672" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Sayantan_101" target="blank"><img src="https://img.shields.io/twitter/follow/sayanta99944672?logo=twitter&style=for-the-badge" alt="sayanta99944672" /></a> </p>
 
 - 🌱 I’m currently learning **React, DSA and Machine learning.**
 
