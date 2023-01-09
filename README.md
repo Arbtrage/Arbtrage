@@ -27,7 +27,16 @@
 - <b>My Holopin Badges 
 
 [![@arbitrage's Holopin board](https://holopin.me/arbitrage)](https://holopin.io/@arbitrage)
-
+  
+  
+- <b>My Stats
+  
+  
+<br>
+  <a href="https://quine.sh/profile/Arbtrage"><img src="https://stats.quine.sh/Arbtrage/github" alt="Arbtrage's GitHub stats" width="840px"></a>
+  <br>
+  
+  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arbtrage&show_icons=true&hide_border=true&theme=dark" width="48%" align="right"  alt="arbtrage" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arbtrage&theme=dark" width="48%" alt="arbtrage" /></p>
