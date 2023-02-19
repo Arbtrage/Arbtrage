@@ -34,7 +34,7 @@
 I am a software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m in my 2nd year of CSE undergrad and am actively participating in Open Source programs and Hackathons.
 
-- :seedling: Exploring new techs, building awesome softwares.
+- :seedling: Exploring new technologies, building awesome softwares.
 
 - :zap: In my free time, I like to build some awesome projects or grind some Leetcode .
 
