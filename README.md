@@ -71,3 +71,7 @@ I am a software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
  <a href="https://quine.sh/profile/Arbtrage"><img src="https://stats.quine.sh/Arbtrage/github?theme=dark" alt="Arbtrage's GitHub stats" width="400px"></a>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arbtrage&layout=compact&theme=vision-friendly-dark">
 </p>
+
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
