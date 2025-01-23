@@ -3,27 +3,12 @@
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
 </div>
 
-<!--Contact Section  -->
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/sayantan-naskar-847a07221/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://instagram.com/_t.h.e_w.a.n.d.e.r.e.r_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://twitter.com/Sayantan_101" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
 
 <!--Greeting section  -->
 <h1 align="center">
-  Welcome to Sayantan's profile!
+  Welcome to Arbtrage's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=9644F4&size=40&center=true&vCenter=true&width=550&height=70&lines=I'm+Sayantan+Naskar;A+Wanderer;A+Software+Developer;A+Problem+Solver">
-</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arbtrage&label=Profile%20views&color=0e75b6&style=flat" alt="arbtrage" /> </p>
 
@@ -57,11 +42,6 @@ I am a software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 </div>
 
 ---
-
-
-## ☯️ My Holopin Badges 
-
-[![@arbitrage's Holopin board](https://holopin.me/arbitrage)](https://holopin.io/@arbitrage)
   
 
  ## 🏆 Github Stats
