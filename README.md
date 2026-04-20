@@ -34,11 +34,6 @@ From **agent frameworks → data pipelines → infra orchestration**, I focus on
 <!-- ================= CURRENT WORK ================= -->
 ## 🚧 What I'm Building
 
-### 🧩 AI Agent Platform
-- Containerized agents (Docker-based isolation)
-- Tool integrations + memory control
-- Autonomous execution via webhooks
-
 ### 📊 AI Database Visualization Tool
 - Multi-Postgres support  
 - Schema graph + AI querying  
